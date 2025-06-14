@@ -27,9 +27,6 @@ To visualize and analyze key business metrics for:
 ## 📂 File
 - `unified mentor projects (1).pbix`: Contains both projects with data visuals and insights
 
-## 📸 Screenshots:
-_(Add screenshots here after uploading your report)_
-
 ## 🚀 How to Use:
 1. Download and install [Power BI Desktop]
 2. Open the `.pbix` file in Power BI
