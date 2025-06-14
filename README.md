@@ -4,7 +4,7 @@
 This project is developed under the guidance of **Unified Mentor** as part of Power BI training and includes multiple dashboards covering real-world scenarios.
 
 ## 📁 Project Title:
-**Unified Mentor Projects – E-commerce & EV Analysis**
+**Unified Mentor Projects –coffee sales dashboard , EV sales by state in india, E-commerce Furniture Dataset 2024
 
 ## 🎯 Purpose:
 To visualize and analyze key business metrics for:
