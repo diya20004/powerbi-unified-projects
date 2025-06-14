@@ -8,6 +8,7 @@ This project is developed under the guidance of **Unified Mentor** as part of Po
 
 ## 🎯 Purpose:
 To visualize and analyze key business metrics for:
+- coffee sales dashboard ( project 1)
 - E-commerce sales (project 3)
 - Electric vehicle market trends (project 2)
 
